@@ -27,5 +27,5 @@ The generated maze is shown using red and black colors. The red cells represent 
 `./maze`
 
 ## Example Output
-
+![Example Output](mazeoutput.png)
 This is an example of the program's output showing a generated maze.
