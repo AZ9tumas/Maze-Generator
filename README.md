@@ -22,11 +22,9 @@ The generated maze is shown using red and black colors. The red cells represent 
 
 1. Make sure you have the SDL2 library installed.
 2. Compile the program using a C compiler, linking against the SDL2 library. For example:
-
 `gcc -o maze_generator maze_generator.c -lSDL2`
 
 3. Run the program:
-
 `./maze`
 
 ## Example Output
