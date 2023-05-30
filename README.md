@@ -20,9 +20,10 @@ The generated maze is shown using red and black colors. The red cells represent 
 
 ## Build and Run
 
-1. Make sure you have the SDL2 library installed.
-2. Use the Makefile to compile: `make`
-3. Run the program:
+1. Make sure that you have a folder named "src" under which the SDL2 includes and libraries are present.
+2. This program uses MingW32 for compilation, as it is **windows based**.
+3. Use the Makefile to compile: `make`
+4. Run the program:
 `./maze`
 
 ## Example Output
